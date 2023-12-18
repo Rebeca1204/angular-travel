@@ -11,7 +11,6 @@ import { MenuBarComponent } from '../../components/menu-bar/menu-bar.component';
     MenuTitleComponent,
     BigCardComponent,
     SmallCardComponent,
-    MenuBarComponent,
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css',
